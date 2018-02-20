@@ -1,5 +1,3 @@
 # DataVisualization
 
-Some data visualization techiniques using different libraries.
-
-# Needs update
+Data Visualization using D3 library.
