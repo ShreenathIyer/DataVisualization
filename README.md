@@ -1,4 +1,4 @@
-# DataVisualization
+# PokemonVisualization
 
 Data Visualization using D3 library.
 
